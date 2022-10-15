@@ -1,0 +1,206 @@
+body {
+    font-family: 'Poppins', sans-serif;    
+}
+
+.navbar-brand {
+    display: flex;
+    font-weight: 700;
+    gap: 1rem;
+    align-items: center;
+}
+
+.navbar-brand img {
+    width: 2rem;
+}
+
+.navbar-brand p {
+    margin-top: 1rem;
+}
+
+.nav-item {
+    text-transform: uppercase;
+}
+
+.button {
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.collapse {
+    justify-content: flex-end;
+}
+
+.banner {
+    background-image: url(src/heroSection.jfif);
+    border-radius: 5rem;
+    margin-top: 2rem;
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.banner img {
+    height: 32rem;
+}
+
+.banner div {
+    margin-left: 12rem;
+}
+
+.button-banner {
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    margin-top: 28rem;
+    margin-left: 13rem;
+}
+
+.brands {
+    background-color: #EBD96B;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem 1rem 3rem;
+}
+
+.newArrival {
+    padding: 3rem;
+}
+
+.newArrival p {
+    font-weight: 700;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.Cards {
+    display: flex;
+}
+
+.Cards p {
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: none;
+    margin: 0;
+}
+
+.exp {
+    font-weight: 400!important;
+    font-size: 14px!important;
+    margin: 0;
+    text-transform: none!important;
+}
+
+.Card img {
+    width: 80%;
+}
+
+.yFavourite p {
+    font-weight: 700;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+.yFavourite {
+    padding: 3rem;
+}
+
+.download {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5rem;
+}
+
+.app {
+    height: 20rem;
+}
+
+.um {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.email {
+    background-color: #EBD96B;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem;
+}
+
+.dois {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.buttonEm {
+    display: flex;
+    background-color: #fff;
+    padding: 0.5rem;
+    border-radius: 0.5rem;    
+}
+
+input {
+    border: none;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.log {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.sub {
+    font-size: 12px;
+    color: rgb(99, 99, 99);
+}
+
+.social {
+    background-color: #EBD96B;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 3rem;
+    background-color: #EBD96B;
+    color: #fff;
+}
+
+.login input {
+    border-radius: 1rem;
+    padding: 0.7rem;
+}
+
+.log1 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 2rem;
+}
