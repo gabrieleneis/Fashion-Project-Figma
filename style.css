@@ -37,6 +37,8 @@ body {
 
 .banner {
     background-image: url(src/heroSection.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
     border-radius: 5rem;
     margin-top: 2rem;
     display: flex;
@@ -48,7 +50,7 @@ body {
 }
 
 .banner div {
-    margin-left: 12rem;
+    margin-left: 3rem;
 }
 
 .button-banner {
@@ -60,8 +62,8 @@ body {
     display: flex;
     align-items: center;
     height: 3rem;
-    margin-top: 28rem;
-    margin-left: 13rem;
+    margin-top: 28.5rem;
+    margin-left: 34rem;
 }
 
 .brands {
